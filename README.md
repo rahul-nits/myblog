@@ -10,4 +10,6 @@ Requirement:
   
   run application in localhost.
   
+  Disclaimer: Logo were designed by me and thus there exist no copyrighted resources. 
+  
   Thanks.
