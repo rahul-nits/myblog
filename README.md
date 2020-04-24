@@ -10,6 +10,10 @@ Requirement:
   
   run application in localhost.
   
+  For Login use:
+  Admin - rahul@myblog.org
+  user - gaurav@myblog.org
+  
   Disclaimer: Logo were designed by me and thus there exist no copyrighted resources. 
   
   Thanks.
