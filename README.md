@@ -13,6 +13,7 @@ Requirement:
   For Login use:
   Admin - rahul@myblog.org
   user - gaurav@myblog.org
+  pass - 123
   
   Disclaimer: Logo were designed by me and thus there exist no copyrighted resources. 
   
