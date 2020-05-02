@@ -15,6 +15,6 @@ Requirement:
   user - gaurav@myblog.org
   pass - 123
   
-  Disclaimer: Logo were designed by me and thus there exist no copyrighted resources. 
+  Disclaimer: Logo were designed by me and thus it is copyrighted. 
   
   Thanks.
