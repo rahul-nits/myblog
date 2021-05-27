@@ -1,6 +1,0 @@
-{
-  "name": "Start on Heroku: PHP",
-  "description": "PHP blog app",
-  "repository": "https://github.com/rahul-nits/myblog",
-  "addons": []
-}
